@@ -15,7 +15,7 @@ def reverse_each_word(string)
   confusing_array = []
   easy_array.collect do |link|
     confusing_array.push link.reverse
-  end 
+  end
   confusing_array.join(" ")
-end 
+end
     
