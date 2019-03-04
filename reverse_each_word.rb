@@ -7,5 +7,3 @@ new_array << l.reverse
 end
 
 end
-
-
