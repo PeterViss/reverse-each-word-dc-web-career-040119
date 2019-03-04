@@ -5,4 +5,5 @@ new_array = []
 string.each do |l|
 new_array << l.reverse
 end
+new_array.join(" ")
 end
