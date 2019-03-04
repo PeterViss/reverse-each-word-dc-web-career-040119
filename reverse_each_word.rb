@@ -5,5 +5,5 @@ new_array = []
 cool_array.each do |l|
 new_array << l.reverse
 end
-
+new_array.join(" ")
 end
