@@ -10,7 +10,7 @@ end
 
 
 def reverse_each_word(string)
-  string = "Hello there, and how are you?"
+
   easy_array = string.split(" ")
   confusing_array = []
   easy_array.collect do |link|
